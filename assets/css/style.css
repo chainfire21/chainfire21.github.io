@@ -1,0 +1,53 @@
+.jumbotron{
+    margin-bottom: 0;
+    margin-left: 1rem;
+    padding: 2rem 1rem;
+}
+
+.no-padding{
+    padding:0;
+}
+
+.carousel{
+    width: 100%;
+    margin: 0px 15px;
+}
+.h-555{
+    height: 555px;
+}
+.carousel-control-prev {
+    background: linear-gradient(to right, #131313 0%,#4c4c4c 19%,#bfbfbf 72%);
+}
+
+.carousel-control-next {
+    background: linear-gradient(to left, #131313 0%,#4c4c4c 19%,#bfbfbf 72%);
+}
+body{
+    background-image: url(../images/Webp.net-resizeimage\ \(2\).jpg);
+    background-position: 10% 10%;
+    background-repeat: no-repeat;
+}
+
+h3{
+    text-shadow: 1px 1px 9px #FFF;
+}
+
+.textW{
+    color:#ffffff;
+}
+
+.margin15{
+    margin: 0px 0px;
+}
+
+.transparent{
+    opacity: .85;
+}
+
+.textLight{
+    color: #ffffff
+}
+
+.carousel-caption{
+    color: #000;
+}
